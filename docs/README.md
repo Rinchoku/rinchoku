@@ -14,5 +14,41 @@
 
 ## スキル
 
+### 言語
+
+* PHP
+* GO
+* JavaScript/TypeScript
+* Python
+* SQL
+* java
+* C#
+* MATLAB
+* VerilogHDL
+
+### フレームワーク
+
+* Laravel
+* Django
+* React
+* Vue.js 2系
+
+### DB
+
+* MySQL
+* PostgreSQL
+* DynamoDB
+
+### クラウド
+
+* AWS(2年)
+
+### ツール
+
+* Grafana
+* Prometheus
+* Figma
+* Notion
+
 ## 職務経歴詳細
 
