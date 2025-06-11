@@ -26,17 +26,33 @@
 * JavaScript/TypeScript
 * Python
 * SQL
-* java
+* JAVA
 * C#
+* C
 * MATLAB
 * VerilogHDL
 
 ### フレームワーク
 
-* Laravel
-* Django
-* React
-* Vue.js 2系
+* バックエンド
+  * PHP
+    * Laravel
+    * CakePHP
+  * Python
+    * Django
+  * GO
+    * gin
+* フロントエンド
+  * React
+    * Next.JS
+    * React Router Dom
+  * Vue.js 2系
+  * vuetify
+* インフラ
+  * Serverless Framework
+  * AWS SAM
+* モバイル
+  * cordova
 
 ### DB
 
@@ -46,15 +62,28 @@
 
 ### クラウド
 
-* AWS(2年)
+* AWS
 
 ### ツール
 
-* Grafana
-* Prometheus
-* Figma
-* Notion
-* Miro
+* Observability
+  * Grafana
+  * Prometheus
+  * Datadog
+* タスク管理
+  * Redmine
+  * JIRA
+* CMS
+  * Salesforce
+  * Zoho
+* ヘルプデスク
+  * Zendesk
+  * FreshDesk
+* その他
+  * Figma
+  * Notion
+  * Miro
+  * Confuluence
 
 ## 職務経歴
 
@@ -62,43 +91,86 @@
 
 | 会社名 | 期間 | 実施内容 |
 | --- | --- | --- |
-| eForce株式会社 | 2023年6月 ~ (現職) | 開発メンバー/プロジェクトマネージャー/Webエンジニア採用担当 |
+| XXX | 2025年7月 ~ (現職)
+| eForce株式会社 | 2023年6月 ~ 2025年6月 | 開発メンバー/プロジェクトマネージャー/Webエンジニア採用担当 |
 | 株式会社ウィルゲート | 2018年4月 ~ 2023年5月 | 開発メンバー・リーダー/SREメンバー |
 
 ### 職務要約
 
-株式会社ウィルゲートに入社後、約5年間SEO支援ツールの開発に従事し、要求定義にもとづいた設計やテス
-ト、保守運用を担当。2019年から上流工程に携わり、事業部へのヒアリング、要件定義なども担当していま
-す。2022年からはLDRとなり、KPIやチームマネジメントなども関わりました。また、DevOps、SREを担当す
-るメンバーに従事し、事業部とのSLO・SLIの策定、モニタリング環境の整備・開発環境整備など行っています。
+2018年4月に株式会社ウィルゲートに入社後、約5年間SEO支援ツールの開発に従事し、要求定義にもとづいた設計やテスト、保守運用を担当。2019年から上流工程に携わり、事業部へのヒアリング、要件定義なども担当しています。2022年からはLDRとなり、KPIやチームマネジメントなども関わりました。また、DevOps、SREを担当するメンバーに従事し、事業部とのSLO・SLIの策定、モニタリング環境の整備・開発環境整備など実施。
+
+2023年6月にeForce株式会社に入社後、自社IoT機器との連携を行うスマホアプリの開発、Webサーバー・APIサーバーの構築を担当。
 
 ### 職務経歴詳細
 
 #### eForce株式会社
 
-在籍期間：2023年5月 ~ 現職
+在籍期間：2023年5月 ~ 2025年6月
 
-##### 2023年5月 ~ 現在 / 新規プロダクト開発
+##### 担当業務リスト
+
+* 開発
+  * スマホアプリ開発
+    * 自治体向けスマホアプリAの新規開発(2023年7月 ~ 2024年7月)
+    * 受託スマホアプリBの新規開発(2023年10月 ~ 2023年11月)
+    * 自治体向けスマホアプリCの新規開発(2024年12月 ~ 2025年3月)
+    * toB向けスマホアプリDの新規開発(2024年11月 ~ )
+  * Web
+    * 既存Webサービスの保守・機能開発(2023年6月 ~ )
+    * toB向けスマホアプリのAPIサーバーの新規開発(2024年11月 ~ )
+  * AI
+    * 衛星画像から特定物体の検出機能の開発(2025年1月 ~ 2025年3月)
+* 社内ツール
+  * 既存社内ツールの保守(2023年6月 ~ )
+  * 顧客向けの製品管理ツール(2024年11月)
+  * 自社オウンドメディアの保守(2023年10月 ~ )
+* インフラ管理
+  * リソース管理(2023年6月 ~ )
+  * 新規開発時のインフラ構築(2023年6月 ~ )
+  * コスト削減(2023年6月 ~ )
+
+##### 開発環境
 
 - 開発環境
   - チーム構成
     - 全3名
+      - 営業1名
+      - デザイナー1名
+      - 開発1名
   - 役割
     - メンバー
-  - 言語
-    - PHP, Python, Go, JavaScript
-  - フレームワーク
-    - Laravel, React, Django, Bref, Serverless
+  - バックエンド
+    - PHP(Laravel, Bref)
+    - Python(Django)
+  - フロントエンド
+    - JavaScript
+    - JQuery
+    - React(Next.JS, React Router Dom)
+  - インフラ
+    - Serverless, AWS SAM
   - OS
     - Ubuntu, Linux
   - DB
-    - PostgreSQL, DynamoDB
+    - PostgreSQL, DynamoDB, MariaDB
   - クラウド
     - AWS
-      - RDS, DynamoDB, Cognito, CloudFormation, CloudFront, Lambda, EC2, IoT Core, Data hourse, Application Load Balancer
-- 業務内容
+      - Route53
+      - RDS, DynamoDB, S3
+      - Cognito
+      - CloudFormation
+      - CloudFront, Application Load Balancer
+      - Lambda, EC2
+      - SES
+      - IoT Core
+      - Data Firehourse, Kinesis
+
+##### 業務内容
+
+- 主業務
   - 新規プロダクトの企画・要件・開発
   - 既存サービスやメディアサイトの運用保守
+  - 受託案件のアプリ開発
+
 - 取り組み
   - 競合調査・ペルソナの作成などを行い、MVPの策定
   - デザイン、APIサーバー、スマホアプリの開発
@@ -170,7 +242,15 @@ BitbucketからGitHubへの移行、デプロイ環境の整備・高速化な�
 
 - コミュニティ
   - SRE NEXT 2024コアスタッフ
+  - SRE NEXT 2025コアスタッフ
   - SRE Kaigi 2025コアスタッフ
+- 登壇経験
+  - 勉強会
+    - Security JAWS
+    - Grafana Meetup Japan #2, #3
+  - カンファレンス
+    - PHP Conference 2024
+    - PHPer Kaigi 2025
 
 ### 自己PR
 
